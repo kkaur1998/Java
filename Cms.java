@@ -1,5 +1,9 @@
 //Business logic layer
-
+class Methods{
+    public static void kk(){
+        System.out.println("Hi this is another method for business logic layer@@@\n");
+    }
+}
 
 // Presentation Layer
 class Cms
